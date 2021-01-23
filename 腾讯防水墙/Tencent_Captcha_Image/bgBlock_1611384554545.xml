@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tencent_Captcha_Image</folder>
+	<filename>bgBlock_1611384554545.jpg</filename>
+	<path>F:\Tencent_Captcha_Image\bgBlock_1611384554545.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>496</xmin>
+			<ymin>179</ymin>
+			<xmax>586</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>
