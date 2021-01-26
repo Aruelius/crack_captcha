@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bilibili_image</folder>
+	<filename>1575969367.png</filename>
+	<path>C:\Users\Lenovo\Desktop\My\bilibili_image\1575969367.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>253</width>
+		<height>155</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>25</ymin>
+			<xmax>173</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>
